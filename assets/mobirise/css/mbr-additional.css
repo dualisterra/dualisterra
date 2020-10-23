@@ -4792,6 +4792,53 @@ a {
 .cid-seg6ljvxva .mbr-section-subtitle {
   text-align: center;
 }
+.cid-sehwfbTo94 {
+  background-color: #ffffff;
+}
+.cid-sehwfbTo94 .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sehwfbTo94 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+}
+.cid-sehwfbTo94 .mbr-text,
+.cid-sehwfbTo94 .mbr-section-btn {
+  text-align: center;
+}
+.cid-sehAusJqUO {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #f3f9ed;
+}
+.cid-sehAusJqUO .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #526a4e;
+  margin-left: 1rem;
+}
+.cid-sehAusJqUO .panel-group {
+  border: none;
+}
+.cid-sehAusJqUO .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-sehAusJqUO .panel-body,
+.cid-sehAusJqUO .card-header {
+  padding: 1rem 0;
+}
+.cid-sehAusJqUO .panel-title-edit {
+  color: #000000;
+}
+.cid-sehAusJqUO .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
 .cid-seaXn4Zf30 {
   padding-top: 4rem;
   padding-bottom: 6rem;
