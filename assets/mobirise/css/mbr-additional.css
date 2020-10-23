@@ -812,7 +812,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.7);
 }
 .cid-se5BLpVNcJ .navbar.opened {
   transition: all 0.3s;
@@ -1465,7 +1465,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.7);
 }
 .cid-se5BLpVNcJ .navbar.opened {
   transition: all 0.3s;
@@ -2763,7 +2763,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.7);
 }
 .cid-se5BLpVNcJ .navbar.opened {
   transition: all 0.3s;
@@ -3157,7 +3157,7 @@ a {
 }
 .cid-se5BLpVNcJ .dropdown-menu,
 .cid-se5BLpVNcJ .navbar.opened {
-  background: #fdfffb !important;
+  background: #ffffff !important;
 }
 .cid-se5BLpVNcJ .nav-item:focus,
 .cid-se5BLpVNcJ .nav-link:focus {
@@ -3191,7 +3191,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(253, 255, 251, 0.9);
+  background: rgba(255, 255, 255, 0.7);
 }
 .cid-se5BLpVNcJ .navbar.opened {
   transition: all 0.3s;
@@ -3336,7 +3336,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-se5BLpVNcJ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #fdfffb;
+  background: #ffffff;
 }
 .cid-se5BLpVNcJ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -3937,7 +3937,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.7);
 }
 .cid-se5BLpVNcJ .navbar.opened {
   transition: all 0.3s;
