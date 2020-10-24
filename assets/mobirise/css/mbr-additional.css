@@ -1811,6 +1811,12 @@ a {
     padding: 2rem;
   }
 }
+.cid-sea58pvfUc .mbr-section-title {
+  text-align: right;
+}
+.cid-sea58pvfUc .mbr-text {
+  text-align: right;
+}
 .cid-seaadxv64Y {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1849,6 +1855,12 @@ a {
     padding: 2rem;
   }
 }
+.cid-seaafKRKqE .mbr-text {
+  text-align: right;
+}
+.cid-seaafKRKqE .mbr-section-title {
+  text-align: right;
+}
 .cid-searQkAJM5 {
   padding-top: 10rem;
   padding-bottom: 0rem;
@@ -1865,11 +1877,11 @@ a {
   }
 }
 .cid-searQkAJM5 .mbr-section-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-searQkAJM5 .mbr-text,
 .cid-searQkAJM5 .mbr-section-btn {
-  text-align: left;
+  text-align: center;
 }
 .cid-sehNrdCYBi {
   padding-top: 6rem;
