@@ -18,7 +18,23 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
-  
+  <script type="text/javascript">
+// PASSWORD PROTECTION SCRIPT
+
+function TheLogin() {
+
+var password = 'pepper';
+
+if (this.document.login.pass.value == password) {
+  top.location.href="backend.html";
+}
+else {
+  window.alert("Contraseña incorrecta. Intente nuevamente.");
+  }
+}
+
+</script>
+
   
   
 </head>
@@ -34,8 +50,15 @@
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7">
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>DUALIS </strong>| TERRA</h1>
-                
-                
+
+</div>
+				<br>                
+                <div style="text-align: center; margin: 0 auto; color: #FFFFF; font: normal 13px arial, sans-serif;">
+Ingrese clave:<br>
+<form name="login" style="margin: 5px 0px 0px 0px;">
+<input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) event.keyCode=9;" style="width: 130px;"><br>
+<input type="button" value="Ingresar" style="width: 134px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
+</form>
                 
             </div>
         </div>
